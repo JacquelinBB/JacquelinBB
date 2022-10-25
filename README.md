@@ -31,11 +31,11 @@
    </div>
 </div>
 
-<div align="center">
-<br><p align="center"><b>Visitors Count</b><p></p><img align="center" src="https://profile-counter.glitch.me/{JacquelinBB}/count.svg" /></p> 
-<br></div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8600bf&height=120&section=footer"/>
+
+<div align="center">
+<br><p align="center"><b>Visitors Count:    </b><img align="center" src="https://profile-counter.glitch.me/{JacquelinBB}/count.svg" /></p> 
+<br></div>
 
 <!--
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
