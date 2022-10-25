@@ -11,20 +11,28 @@
   <div style="display: inline_block"><br>
     <img align="right" alt="coding-time" src="https://github-profile-trophy.vercel.app/?username=JacquelinBB&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15">
     <h3 align="left">Knowledges:</h3>
-    <img align="center" alt="python-icon"  src="https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117">
+    <img align="center" alt="python-icon"  src="https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=bfbc00&labelColor=0D1117">
+    <img align="center" alt="c-icon" src="https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&logoColor=007cbf&labelColor=0D1117">
+    <img align="center" alt="java-icon" src="https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&logoColor=bf7f00&labelColor=0D1117">
+    <img align="center" alt="assembly-icon" src="https://img.shields.io/badge/-assembly-0D1117?style=for-the-badge&logo=assembly&labelColor=0D1117">
+    <img align="center" alt="uml-icon"  src="https://img.shields.io/badge/-uml-0D1117?style=for-the-badge&logo=uml&logoColor=1572B6&labelColor=0D1117">
     <img align="center" alt="react-icon" src="https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117">
     <img align="center" alt="css-icon" src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117">
-    <img align="center" alt="mysql-icon" src="https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117">
+    <img align="center" alt="typescript-icon" src="https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117">
+    <img align="center" alt="sqlite-icon"  src="https://img.shields.io/badge/-sqlite-0D1117?style=for-the-badge&logo=sqlite&logoColor=00a6bf&labelColor=0D1117">
+    <img align="center" alt="haskell-icon" src="https://img.shields.io/badge/-haskell-0D1117?style=for-the-badge&logo=haskell&logoColor=7300bf&labelColor=0D1117">
+    <img align="center" alt="flask-icon" src="https://img.shields.io/badge/-flask-0D1117?style=for-the-badge&logo=flask&logoColor=1572B6&labelColor=0D1117">
+    <img align="center" alt="git-icon" src="https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117">
      <h3 align="left">Connect with me:</h3>
      <div align="left">
-        <a href = "mailto:shubalia7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-        <a href="https://www.linkedin.com/in/jacquelinbusch/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+        <a href = "mailto:shubalia7@gmail.com"><img src="https://img.shields.io/badge/-Gmail%20-0D1117?style=for-the-badge&logo=gmail&logoColor=bf0030&labelColor=0D1117"></a>
+        <a href="https://www.linkedin.com/in/jacquelinbusch/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin%20-0D1117?style=for-the-badge&logo=linkedin&logoColor=0053bf&labelColor=0D1117"></a> 
      </div>      
    </div>
 </div>
 
 <div align="center">
-<br><p align="center"><b>Visitors Count ->  </b><img align="center" src="https://profile-counter.glitch.me/{JacquelinBB}/count.svg" /></p> 
+<br><p align="center"><b>Visitors Count</b><p></p><img align="center" src="https://profile-counter.glitch.me/{JacquelinBB}/count.svg" /></p> 
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8600bf&height=120&section=footer"/>
