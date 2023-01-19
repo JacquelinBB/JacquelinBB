@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8600bf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Jacquelin+Busch;I'm+19+years+old;;I+study+computer+science+at+Cesar+Shool;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JacquelinBB&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=8600bf&icon_color=8600bf&text_color=c9d1d9&bg_color=0d1117" alt="Jacquelin Busch github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JacquelinBB&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=8600bf&icon_color=8600bf&text_color=c9d1d9&bg_color=0d1117" alt="Jacquelin github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacquelinBB&layout=compact&hide_border=true&title_color=8600bf&text_color=8600bf&bg_color=0d1117" />
 </div>
 
