@@ -4,7 +4,7 @@
 
 <div align="center">
   <img width="49%" height="225px" src="https://readme-stats-ep337yjbf-jacquelinbb.vercel.app/api?username=JacquelinBB&role=owner,organization_member&exclude_repo=obsidian-sync&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=8600bf&icon_color=8600bf&text_color=c9d1d9&bg_color=0d1117" alt="Jacquelin github stats" /> 
-  <img width="49%" height="225px" src="https://readme-stats-ep337yjbf-jacquelinbb.vercel.app/api/top-langs/?username=JacquelinBB&role=owner,organization_member,collaborator&exclude_repo=obsidian-sync,readme-stats,FPCorrector,Exercicios-Programacao,shell,FrontEnd_Aktiven,Infra-comunic&langs_count=10&layout=compact&hide_border=true&title_color=8600bf&text_color=8600bf&bg_color=0d1117" /> 
+  <img width="49%" height="225px" src="https://readme-stats-ep337yjbf-jacquelinbb.vercel.app/api/top-langs/?username=JacquelinBB&role=owner,organization_member,collaborator&exclude_repo=obsidian-sync,readme-stats,FPCorrector,Exercicios-Programacao,shell,FrontEnd_Aktiven,Infra-comunic,home-assistant-model&langs_count=10&layout=compact&hide_border=true&title_color=8600bf&text_color=8600bf&bg_color=0d1117" /> 
 </div>
 
 <div  align="center"> 
